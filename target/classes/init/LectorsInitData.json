@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "name": "Petrenko Ivan Antonovych",
+    "degree": "assistant",
+    "departments": [
+      {
+        "id": 2,
+        "name": "Department name 2"
+      }
+    ],
+    "salary": 2000
+  },
+  {
+    "id": 2,
+    "name": "Ivanov Petro Dmytrovych",
+    "degree": "assistant",
+    "departments": [
+      {
+        "id": 1,
+        "name": "Department name 1"
+      }
+    ],
+    "salary": 2000
+  },
+  {
+    "id": 3,
+    "name": "Egorova Evgeniya Semenivna",
+    "degree": "associate professor",
+    "departments": [
+      {
+        "id": 1,
+        "name": "Department name 1"
+      },
+      {
+        "id": 2,
+        "name": "Department name 2"
+      }
+    ],
+    "salary": 3000
+  },
+  {
+    "id": 4,
+    "name": "Sorokina Nadya Olehivna",
+    "degree": "associate professor",
+    "departments": [
+      {
+        "id": 2,
+        "name": "Department name 2"
+      },
+      {
+        "id": 3,
+        "name": "Department name 3"
+      }
+    ],
+    "salary": 3000
+  },
+  {
+    "id": 5,
+    "name": "Slobodyanyuk Kuzma Eduardovych",
+    "degree": "associate professor",
+    "departments": [
+      {
+        "id": 1,
+        "name": "Department name 1"
+      },
+      {
+        "id": 2,
+        "name": "Department name 2"
+      },
+      {
+        "id": 3,
+        "name": "Department name 3"
+      }
+    ],
+    "salary": 3000
+  },
+  {
+    "id": 6,
+    "name": "Derkach Valentyn Vasylovych",
+    "degree": "associate professor",
+    "departments": [
+      {
+        "id": 3,
+        "name": "Department name 3"
+      },
+      {
+        "id": 1,
+        "name": "Department name 1"
+      }
+    ],
+    "salary": 3000
+  },
+  {
+    "id": 7,
+    "name": "Klymchuk Kyrylo Vasylovych",
+    "degree": "professor",
+    "departments": [
+      {
+        "id": 1,
+        "name": "Department name 1"
+      },
+      {
+        "id": 2,
+        "name": "Department name 2"
+      }
+    ],
+    "salary": 4000
+  },
+  {
+    "id": 8,
+    "name": "Popovych Polina Leonidivna",
+    "degree": "professor",
+    "departments": [
+      {
+        "id": 1,
+        "name": "Department name 1"
+      },
+      {
+        "id": 3,
+        "name": "Department name 3"
+      }
+    ],
+    "salary": 4000
+  }
+]
